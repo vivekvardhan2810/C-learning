@@ -20,7 +20,7 @@ class Main {
      * characters, such as 'a' or 'B')
      */
     String name = "John";
-    System.out.println(name);
+    System.out.println("Hello " + name);
 
     int myNum = 15;
     myNum = 20;
