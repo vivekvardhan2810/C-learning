@@ -28,8 +28,12 @@ class Main {
 
     int x = 5;
     int y = 7;
-    // int z = x + y;
-    System.out.println(x + y);
+    int z = x + y;
+    System.out.println(z);
+    
+    int x = 10;
+    int y = 15;
+    System.out.println(x+y);
     
    String firstName = "Vivek ";
    String lastName = "Vardhan";
