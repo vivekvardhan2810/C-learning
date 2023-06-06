@@ -21,6 +21,11 @@ class Main {
      */
     String name = "Vivek";
     System.out.println("Hello " + name);
+    
+    String firstName = "Vivek ";
+    String lastName = "Vardhan";
+    String fullName = firstName + lastName;
+    System.out.println(fullName); 
 
     int myNum = 15;
     myNum = 20;
