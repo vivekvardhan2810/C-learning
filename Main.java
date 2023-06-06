@@ -55,5 +55,9 @@ class Main {
     //for boolean//
    boolean isJavaFun = true;
     System.out.println(isJavaFun);
+    
+    //for character//
+    char myGrade = 'B';
+    System.out.println(myGrade);
   }
 }
