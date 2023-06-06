@@ -39,10 +39,5 @@ class Main {
     int x = 10;
     int y = 15;
     System.out.println(x+y);
-    
-   String firstName = "Vivek ";
-   String lastName = "Vardhan";
-   String fullName = firstName + lastName;
-   System.out.println(fullName); 
   }
 }
