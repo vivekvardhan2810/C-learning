@@ -19,7 +19,7 @@ class Main {
      * int such as (1,2 or any number), boolean (T/F), char (stores single
      * characters, such as 'a' or 'B')
      */
-    String name = "John";
+    String name = "Vivek";
     System.out.println("Hello " + name);
 
     int myNum = 15;
@@ -30,6 +30,10 @@ class Main {
     int y = 7;
     // int z = x + y;
     System.out.println(x + y);
+    
+   String firstName = "Vivek ";
+   String lastName = "Vardhan";
+   String fullName = firstName + lastName;
+   System.out.println(fullName); 
   }
 }
-    
