@@ -46,6 +46,14 @@ class Main {
     
     int x = 5, y = 7;
     System.out.println(x+y);
- /* Above two*/   
+ /* Above two*/
+    
+    //for float//
+    float f1 = 35e3f;
+    System.out.println(f1);
+    
+    //for boolean//
+   boolean isJavaFun = true;
+    System.out.println(isJavaFun);
   }
 }
