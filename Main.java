@@ -19,6 +19,8 @@ class Main {
      * int such as (1,2 or any number), boolean (T/F), char (stores single
      * characters, such as 'a' or 'B')
      */
+    
+    //for String//
     String name = "Vivek";
     System.out.println("Hello " + name);
     
@@ -27,6 +29,7 @@ class Main {
     String fullName = firstName + lastName;
     System.out.println(fullName); 
 
+    //for int//
     int myNum = 15;
     myNum = 20;
     System.out.println(myNum);
@@ -35,9 +38,14 @@ class Main {
     int y = 7;
     int z = x + y;
     System.out.println(z);
+   
+  /* Or we can write like this*/
+    int x = 5;
+    int y = 7;
+    System.out.println(x+y); 
     
-    int x = 10;
-    int y = 15;
+    int x = 5, y = 7;
     System.out.println(x+y);
+ /* Above two*/   
   }
 }
