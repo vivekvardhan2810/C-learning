@@ -73,6 +73,6 @@ class Main {
     
     int x =10;
     x -= 5
-      system.out.println(x); // For Subtraction//
+    system.out.println(x); // For Subtraction//
   }
 }
