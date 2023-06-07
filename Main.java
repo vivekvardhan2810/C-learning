@@ -1,4 +1,4 @@
-//Java Practice//
+//Java Practice ( The below Content Written in Comment taken from W3 Schools For reference//
 /* The code below will print the words*/
 class Main {
   public static void main(String args[]) {
@@ -59,5 +59,9 @@ class Main {
     //for character//
     char myGrade = 'B';
     System.out.println(myGrade);
+    
+    /* Java Operators 
+    1) Addition = Adds together two values	x + y
+    2) Subtraction = Subtraction	Subtracts one value from another	x - y
   }
 }
