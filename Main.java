@@ -61,7 +61,16 @@ class Main {
     System.out.println(myGrade);
     
     /* Java Operators 
+    i) Arithmetic Operators:-
     1) Addition = Adds together two values	x + y
     2) Subtraction = Subtraction	Subtracts one value from another	x - y
+    3) Multiplication = Multiplies two values	x * y
+    4) Increment = Increases the value of a variable by 1	++x */
+    
+    int x = 10;
+    x += 5;
+    System.out.println(x); // For Addition//
+    
+    
   }
 }
