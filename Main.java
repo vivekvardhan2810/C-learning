@@ -74,5 +74,18 @@ class Main {
     int x =10;
     x -= 5
     system.out.println(x); // For Subtraction//
+    
+    /* Type Casting = Type casting is when you assign a value of one primitive data type to another type
+     There are two types of Casting:-
+     1) Widnening Casting
+     2) Narrowing Casting*/
+    
+    // For Widening Casting//
+    
+    int myInt = 9;
+    double myDouble = myInt;
+    
+    System.out.println(myInt);
+    System.out.println(myDouble;
   }
 }
