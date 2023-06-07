@@ -64,6 +64,12 @@ class Main {
     System.out.println(x+y);
  /* Above two*/
     
+    /* If you add two strings, the result will be a string concatenation */
+     String x = "10";
+     String y = "20"; // Also we can write int y = 20;
+     String z = x + y;
+     System.out.println(z);  // Output Will be 1020 //
+    
     //for float//
     float f1 = 35e3f;
     System.out.println(f1);
