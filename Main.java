@@ -21,6 +21,7 @@ class Main {
      */
     
     //for String//
+    //The Below Shown How to write For string by various methods//
     String name = "Vivek";
     System.out.println("Hello " + name);
     
@@ -46,6 +47,7 @@ class Main {
     System.out.println(txt.indexof("locate")); // To find a Character in a String //
 
     //for int//
+    //The Below Shown How to write For int by various methods//
     int myNum = 15;
     myNum = 20;
     System.out.println(myNum);
@@ -71,14 +73,17 @@ class Main {
      System.out.println(z);  // Output Will be 1020 //
     
     //for float//
+    //The Below Shown How to write For float by various methods//
     float f1 = 35e3f;
     System.out.println(f1);
     
     //for boolean//
+    //The Below Shown How to boolean For float by various methods//
    boolean isJavaFun = true;
     System.out.println(isJavaFun);
     
     //for character//
+   //The Below Shown How to write For character by various methods//
     char myGrade = 'B';
     System.out.println(myGrade);
     
