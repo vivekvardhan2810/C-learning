@@ -71,6 +71,8 @@ class Main {
     x += 5;
     System.out.println(x); // For Addition//
     
-    
+    int x =10;
+    x -= 5
+      system.out.println(x); // For Subtraction//
   }
 }
