@@ -28,6 +28,16 @@ class Main {
     String lastName = "Vardhan";
     String fullName = firstName + lastName;
     System.out.println(fullName); 
+    
+    String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    System.out.println("The length of the string is: " + txt.length()); // To find the Length of String //
+    
+    String txt = "Vivek Vardhan";
+    System.out.println(txt.toUppercase());
+    System.out.println(txt.toLowercase()); // To Find the Upper case and Lower case //
+    
+    String txt = "Vivek Vardhan 'locate' error";
+    System.out.println(txt.indexof("locate")); // To find a Character in a String//
 
     //for int//
     int myNum = 15;
