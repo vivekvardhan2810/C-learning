@@ -86,6 +86,14 @@ class Main {
     double myDouble = myInt;
     
     System.out.println(myInt);
-    System.out.println(myDouble;
+    System.out.println(myDouble);
+    
+    //For Narrowing Casting//
+    
+    double myDouble = 9.78d;
+    int myInt = (int) myDouble;
+    
+    System.out.println(myDouble);
+    System.out.println(myInt);
   }
 }
