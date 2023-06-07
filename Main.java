@@ -1,4 +1,4 @@
-//Java Practice ( The below Content Written in Comment taken from W3 Schools For reference//
+//Java Practice ( The below Content Written in Comment taken from W3 Schools For reference)//
 /* The code below will print the words*/
 class Main {
   public static void main(String args[]) {
