@@ -82,6 +82,10 @@ class Main {
     char myGrade = 'B';
     System.out.println(myGrade);
     
+    int myAge = 25;
+    int VotingAge = 18;
+    System.out.println(myAge<=VotingAge);
+    
     /* Java Operators 
     i) Arithmetic Operators:-
     1) Addition = Adds together two values	x + y
