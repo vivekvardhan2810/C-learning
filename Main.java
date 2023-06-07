@@ -29,6 +29,12 @@ class Main {
     String fullName = firstName + lastName;
     System.out.println(fullName); 
     
+    /* Or we can write like this */
+    
+    String firstName = "Vivek";
+    String lastName = "Vardhan";
+    System.out.println(firstName.concat(lastName));
+    
     String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     System.out.println("The length of the string is: " + txt.length()); // To find the Length of String //
     
@@ -37,7 +43,7 @@ class Main {
     System.out.println(txt.toLowercase()); // To Find the Upper case and Lower case //
     
     String txt = "Vivek Vardhan 'locate' error";
-    System.out.println(txt.indexof("locate")); // To find a Character in a String//
+    System.out.println(txt.indexof("locate")); // To find a Character in a String //
 
     //for int//
     int myNum = 15;
