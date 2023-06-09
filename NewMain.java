@@ -42,5 +42,8 @@ class NewMain {
     else {
        System.out.println("Good Night");
      } 
+
+    //Else if Statement//
+    
   }
 )   
