@@ -26,5 +26,14 @@ class NewMain {
          System.out.println("x is greater than y");
       }
 
+      //Else Statement//
+      /* Syntax
+         if (condition) {
+             // block of code to be executed if the condition is true
+          } 
+  else {
+      // block of code to be executed if the condition is false
+  } */
+
    }
 }
