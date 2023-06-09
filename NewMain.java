@@ -14,10 +14,12 @@ class NewMain {
    Use else if to specify a new condition to test, if the first condition is false.
    Use switch to specify many alternative blocks of code to be executed.*/
 
-  // The if Statement (The Below Shown are the various types how e use if statement)//
+  // The if Statement//
+ // The Below Shown are the various types how We use if statement//
       if(20 > 18){
         System.out.println("20 is greater than 18");
       }
     
+
    }
 }
