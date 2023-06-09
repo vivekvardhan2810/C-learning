@@ -44,6 +44,13 @@ class NewMain {
      } 
 
     //Else if Statement//
-    
+    int time = 22;
+    if (time < 10) {
+      System.out.println("Good Morning");
+    }
+    else if (time < 18) {
+      System.out.println("Good Day.");
+    }
+
   }
 )   
