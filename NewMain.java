@@ -51,6 +51,8 @@ class NewMain {
     else if (time < 18) {
       System.out.println("Good Day.");
     }
-
+    else {
+      System.out.println("Good Evening.");
+    }
   }
 )   
