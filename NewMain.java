@@ -35,5 +35,12 @@ class NewMain {
       // block of code to be executed if the condition is false
   } */
 
-   }
-}
+    int x = 20;
+    if (x <=14) {
+      System.out.println("Good Morning");
+     } 
+    else {
+       System.out.println("Good Night");
+     } 
+  }
+)   
