@@ -99,6 +99,7 @@ class NewMain {
       default:
         System.out.println("i don't Know");
     }
-
+      //Java While loop//
+     
   }
 }  
