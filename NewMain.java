@@ -86,6 +86,19 @@ class NewMain {
         System.out.println("Sunday");
         break;
     }
+      //default//
+      //The default keyword specifies some code to run if there is no case match//
+      int day = 4;
+    switch (day) {
+      case 6:
+      System.out.println("Today Is Saturday");
+      break;
+      case 7:
+       System.out.println("Today is Sunday");
+       break;
+      default:
+        System.out.println("i don't Know");
+    }
 
   }
 }  
