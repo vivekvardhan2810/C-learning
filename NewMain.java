@@ -104,6 +104,7 @@ class NewMain {
      Loops are handy because they save time, reduce errors, and they make code more readable*/
    
     //Examples//
+   // In the example below, the code in the loop will run, over and over again, as long as a variable (i) is less than 5//
     int i = 5;
     while (i < 5) {
       System.out.println(i);
