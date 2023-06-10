@@ -118,6 +118,7 @@ class NewMain {
         } 
         while (i < 6);
 
-
+  //For Loop//
+   
   }
 }  
