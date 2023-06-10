@@ -86,7 +86,7 @@ class NewMain {
         System.out.println("Sunday");
         break;
     }
-      //default//
+      //default in switch//
       //The default keyword specifies some code to run if there is no case match//
       int day = 4;
     switch (day) {
