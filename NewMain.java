@@ -104,6 +104,9 @@ class NewMain {
      Loops are handy because they save time, reduce errors, and they make code more readable*/
    
     //Examples//
-
+    int i = 5;
+    while (i < 5) {
+      System.out.println(i);
+      i++;
   }
 }  
