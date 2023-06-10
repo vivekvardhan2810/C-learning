@@ -100,6 +100,8 @@ class NewMain {
         System.out.println("i don't Know");
     }
       //Java While loop//
-     
+     /* Loops can execute a block of code as long as a specified condition is reached
+     Loops are handy because they save time, reduce errors, and they make code more readable*/
+
   }
 }  
