@@ -159,5 +159,10 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
       for (int j = 1; j<=3; j++) {
         System.out.println("Inner " + j);
       }
+    //How can we assume to go in strings  for (for loop)//
+    String[] cars = { "Volvo", "BMW", "Ford" };
+        for (String i : cars) {
+            System.out.println(i);
+        }
   }
 }  
