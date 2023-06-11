@@ -182,6 +182,9 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
     }
 
   // For each loop//
- 
+    String[] cars = {"Volvo", "BMW", "Ford", "Leyland"};
+      for (String i : cars) {
+        System.out.println(i);
+      }
   }
 }  
