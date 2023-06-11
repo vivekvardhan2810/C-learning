@@ -165,11 +165,15 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
             System.out.println(i);
         }
 
+      // for break//
        for (int i = 0; i < 10; i++) {
         if (i==5) {
             break;
         }
         System.out.println(i);
       }
+
+    //for Continue (In the loop, when the value is "4", jump directly to the next value)//
+     
   }
 }  
