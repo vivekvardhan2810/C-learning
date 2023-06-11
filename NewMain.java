@@ -129,6 +129,7 @@ class NewMain {
   Statement 3 is executed (every time) after the code block has been executed*/
 
   //Examples//
+ //The example below will print the numbers 0 to 4//
    for (int i = 0; i < 5; i++) {
         System.out.println(i);
       }
