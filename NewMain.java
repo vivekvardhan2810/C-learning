@@ -188,6 +188,11 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
       }
   
   //Java Break and Continue//
-   
+   for (int i = 0; i < 10; i++) {
+      if (i==4) {
+        break;
+      }
+      System.out.println(i);
+    }
   }
 }  
