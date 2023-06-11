@@ -174,6 +174,11 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
       }
 
     //for Continue (In the loop, when the value is "4", jump directly to the next value)//
-     
+     for (int i = 0; i<4; i++) {|
+       if (i==4) {
+          continue;
+      }
+      System.out.println(i);
+    }
   }
 }  
