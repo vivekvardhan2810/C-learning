@@ -197,6 +197,11 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
     }
 
   //Java Continue//
-
+  for (int i = 0; i < 10; i++) {
+      if (i==4) {
+        continue;
+      }
+      System.out.println(i);
+    }
   }
 }  
