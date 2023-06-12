@@ -234,6 +234,7 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
    System.out.println(cars.length);
 
   //Loop tHrough an array//
- 
+  String cars[] = {"Volvo"; "BMW"; "Ford"; "Leyland"};
+  
   }
 }  
