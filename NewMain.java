@@ -240,6 +240,10 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
     }
 
   //Loop Throug an array with For Each//
+String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+    for (String i : cars) {
+      System.out.println(i);
+    }
 
   }
 }  
