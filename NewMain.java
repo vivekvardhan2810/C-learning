@@ -228,5 +228,8 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
    //Java Arrays//
   String[] cars = {"Volvo", "Swaraj"};
     System.out.println(cars[0]);
+
+  //Array length//|
+
   }
 }  
