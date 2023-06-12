@@ -238,5 +238,6 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
   for (int i = 0; i < cars.length; i++) {
     System.out.println(cars[i]);
     }
+
   }
 }  
