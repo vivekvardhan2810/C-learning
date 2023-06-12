@@ -229,7 +229,10 @@ The "inner loop" will be executed one time for each iteration of the "outer loop
   String[] cars = {"Volvo", "Swaraj"};
     System.out.println(cars[0]);
 
-  //Array length//|
+  //Array length//
+ String[] cars = {"Volvo", "BMW"};
+   System.out.println(cars.length);
+
 
   }
 }  
