@@ -268,6 +268,7 @@ int[][] myNumbers = { {1, 2, 3, 4}, {5, 6, 7} };
    Methods are used to perform certain actions, and they are also known as functions.
    Why use methods? To reuse code: define the code once, and use it many times.*/
 
-   
+   //Create a method//
+
   }
 }  
