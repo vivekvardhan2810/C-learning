@@ -288,6 +288,16 @@ public class NewMain {
 }
 
 //A method can also be called Multiple times//
-
+public static void main(String[] args) {
+        myMethod("Siva Prasad");
+        myMethod("Rajeswari");
+        myMethod("Vivek Vardhan");
+        myMethod("Avanish");
+        myMethod("Sai Bhaskar");
+        myMethod("Rachit");
+        myMethod("Mustak");
+        myMethod("Safwan");
+        myMethod("Chaitanya");
+    }
   }
 }  
