@@ -269,6 +269,14 @@ int[][] myNumbers = { {1, 2, 3, 4}, {5, 6, 7} };
    Why use methods? To reuse code: define the code once, and use it many times.*/
 
    //Create a method//
+Create a method inside Main:
+
+public class Main {
+  static void myMethod() {
+    // code to be executed
+  }
+}
+
 
   }
 }  
