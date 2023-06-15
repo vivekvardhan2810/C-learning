@@ -287,6 +287,7 @@ public class NewMain {
   }
 }
 
+//A method can also be called Multiple times//
 
   }
 }  
