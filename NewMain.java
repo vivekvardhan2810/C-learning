@@ -307,6 +307,11 @@ public class NewMain {
 Static int myMethod(int x) {
    returns 5 + x;
   }
+
+  public static void main (string args[]) {
+    System.out.println(myMethod(3));
+   }
 }
+
   }
 }  
