@@ -271,13 +271,22 @@ int[][] myNumbers = { {1, 2, 3, 4}, {5, 6, 7} };
    //Create a method//
 Create a method inside Main:
 
-public class Main {
+public class NewMain {
   static void myMethod() {
     // code to be executed
   }
 }
 
 // Call a Method//
+ public class NewMain {
+  static void myMethod() {
+   system.out.println("I just got executed");
+}
+  public static void main(String args[]) {
+
+  }
+}
+
 
   }
 }  
