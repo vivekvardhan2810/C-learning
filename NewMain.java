@@ -283,7 +283,7 @@ public class NewMain {
    system.out.println("I just got executed");
 }
   public static void main(String args[]) {
-
+    myMethod();
   }
 }
 
