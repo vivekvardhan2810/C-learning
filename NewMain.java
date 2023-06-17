@@ -384,6 +384,12 @@ class NewMain {
 }
 
 //Multiple Objects//
+   public static void main(String[] args) {
+    NewMain myObj1 = new NewMain();
+    NewMain myObj2 = new NewMain();
+    System.out.println(myObj1.z);
+    System.out.println(myObj2.z);
+
 
   }
 }  
