@@ -348,9 +348,7 @@ public class Example1 {
       return k + sum(k - 1);
     } else {
       return 0;
-     }
-
-
+    }
   }
 }
 
