@@ -352,5 +352,9 @@ public class Example1 {
   }
 }
 
+//Example Explained//
+/* When the sum() function is called, it adds parameter k to the sum of all numbers smaller than k and returns the result. When k becomes 0, the function just returns 0. When running, the program follows these steps*/
+
+
   }
 }  
