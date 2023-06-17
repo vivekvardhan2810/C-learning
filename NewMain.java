@@ -338,7 +338,7 @@ Static int myMethod(int x) {
 //Java Recursion//
   /* Recursion is the technique of making a function call itself. This technique provides a way to break complicated problems down into simple problems which are easier to solve*/
 
-public class Example1 {
+public class NewManin {
   public static void main(String[] args) {
     int result = sum(9);
     System.out.println(result);
@@ -357,7 +357,7 @@ public class Example1 {
 
 //Halting Condition//
 // Use recursion to add all of the numbers between 5 to 10//
-public class Main {
+public class NewMain {
   public static void main(String[] args) {
     int result = sum(5, 10);
     System.out.println(result);
