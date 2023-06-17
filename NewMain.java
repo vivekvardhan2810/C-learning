@@ -372,6 +372,15 @@ public class NewMain {
 }
 
 //Java Class//
+class NewMain {
+  int x = 5;
+  int y = 10;
+  int z = x + y;
 
+  public static void main(String[] args) {
+    NewMain myObj = new NewMain ();
+    System.out.println(myObj.z);
+  }
+}
   }
 }  
