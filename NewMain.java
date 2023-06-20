@@ -409,6 +409,18 @@ public class NewMain {
     System.out.println(myObj.x);
   }
 }
+// Multiple Attributes//
+public class NewMain {
+  String fname = "Vivek";
+  String lname = "Vardhan";
+  int age = 24;
+
+  public static void main(String[] args) {
+    NewMain myObj = new NewMain();
+    System.out.println("Name: " + myObj.fname + " " + myObj.lname);
+    System.out.println("Age: " + myObj.age);
+  }
+}
 
   }
 }  
