@@ -399,6 +399,16 @@ public class Example1 {
     System.out.println(myObj.x);
   }
 }
+//Modify Attributes//
+public class Example1 {
+  int x;
+
+  public static void main(String[] args) {
+    Example1 myObj = new Example1();
+    myObj.x = 400;
+    System.out.println(myObj.x);
+  }
+}
 
   }
 }  
