@@ -422,5 +422,16 @@ public class NewMain {
   }
 }
 
+//Java Class Methods//
+public class NewMain {
+  static void myMethod() {
+    System.out.println("Hello World");
+  }
+
+  public static void main(String[] args) {
+    myMethod();
+  }
+}
+
   }
 }  
