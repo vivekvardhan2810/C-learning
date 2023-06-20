@@ -391,20 +391,20 @@ class NewMain {
     System.out.println(myObj2.z);
 
 //Java Class Attributes//
-public class Example1 {
+public class NewMain {
   int x = 5;
 
   public static void main(String[] args) {
-    Example1 myObj = new Example1();
+    NewMain myObj = new NewMain();
     System.out.println(myObj.x);
   }
 }
 //Modify Attributes//
-public class Example1 {
+public class NewMain {
   int x;
 
   public static void main(String[] args) {
-    Example1 myObj = new Example1();
+    NewMain myObj = new NewMain();
     myObj.x = 400;
     System.out.println(myObj.x);
   }
