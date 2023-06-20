@@ -433,6 +433,26 @@ public class NewMain {
   }
 }
 
+//Static vs Public//
+public class NewMain {
+  static void myStaticMethod() {
+    System.out.println("Static Methods");
+  }
+
+  //Public Method//
+  public void myPublicMethod () {
+    System.out.println("Public Methods");
+  }
+
+  //Main Method//
+  public static void main(String[] args) {
+    myStaticMethod();
+    
+    NewMain myObj = new NewMain();
+    myObj.myPublicMethod();
+  }
+}
+
 
   }
 }  
