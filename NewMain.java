@@ -390,6 +390,7 @@ class NewMain {
     System.out.println(myObj1.z);
     System.out.println(myObj2.z);
 
+//Java Class Attributes//
 
   }
 }  
