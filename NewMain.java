@@ -391,6 +391,14 @@ class NewMain {
     System.out.println(myObj2.z);
 
 //Java Class Attributes//
+public class Example1 {
+  int x = 5;
+
+  public static void main(String[] args) {
+    Example1 myObj = new Example1();
+    System.out.println(myObj.x);
+  }
+}
 
   }
 }  
