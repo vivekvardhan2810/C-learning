@@ -454,6 +454,7 @@ public class NewMain {
 }
 
 //Java Encapsulation//
-
+//Get and Set//
+      
   }
 }  
