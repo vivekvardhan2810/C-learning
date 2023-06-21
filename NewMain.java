@@ -460,5 +460,11 @@ public class NewMain {
 declare class variables/attributes as private
 provide public get and set methods to access and update the value of a private variable*/
  
+//Java Packages//
+//Built in Packages//
+//Syntax//
+import package.name.Class;   // Import a single class
+import package.name.*;   // Import the whole package
+
   }
 }  
