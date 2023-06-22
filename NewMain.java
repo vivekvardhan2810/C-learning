@@ -487,14 +487,14 @@ class NewMain {
 }
 
 class car extends NewMain {
-	private String modelName = "Mustang";
-	public static void main(String[] args) {
-		car myCar  = new car();
-		myCar.honk();
+    private String modelName = "Mustang";
+    public static void main(String[] args) {
+	car myCar  = new car();
+	myCar.honk();
 
-		System.out.println(myCar.brand + " " + myCar.modelName);
+	System.out.println(myCar.brand + " " + myCar.modelName);
 	}
-}
+     }
    
 
   }
