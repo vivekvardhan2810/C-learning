@@ -40,6 +40,6 @@ class Example2
 	public static void main (String[] args)
 	{
 		findSmallest(10);
-        findSmallest(13);
+                findSmallest(13);
 	}
 }
