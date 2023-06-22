@@ -497,6 +497,24 @@ class car extends NewMain {
      }
    
 //Java Polymorphism//
+class NewMain {
+   public void animalSound() {
+	System.out.println("The animal makes a sound");
+   }
+}
+
+class Pig extends NewMain {
+	public void animalSound() {
+		System.out.println("The pig says: Oink Oink");
+	}
+}
+
+class Dog extends NewMain {
+	public void animalSound() {
+		System.out.println("The Dog Says : Bow Bow");
+	}
+     }
+
 
   }
 }  
