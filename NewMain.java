@@ -477,15 +477,16 @@ class NewMain {
     System.out.println("Username is: " + userName);
   }
 }
+//Java Inheritance//
 
-class Example1 {
+class NewMain {
 	protected String brand = "Ford";
 	public void honk() {
 		System.out.println("Tuut, tuut!");
 	}
 }
 
-class car extends Example1 {
+class car extends NewMain {
 	private String modelName = "Mustang";
 	public static void main(String[] args) {
 		car myCar  = new car();
