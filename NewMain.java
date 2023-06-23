@@ -533,6 +533,19 @@ public class NewMain {
       }
 
 //Static inner class//
+class Outerclass {
+	int x = 10;
 
+   class Innerclass {
+	int y = 5;
+   }
+}
+
+public class NewMain {
+  public static void main(String[] args) {
+    OuterClass.InnerClass myInner = new OuterClass.InnerClass();
+    System.out.println(myInner.y);
+  }
+}
   }
 }  
