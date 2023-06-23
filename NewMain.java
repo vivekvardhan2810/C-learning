@@ -532,6 +532,7 @@ public class NewMain {
 	 }
       }
 
+//Static inner class//
 
   }
 }  
