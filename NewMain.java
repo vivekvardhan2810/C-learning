@@ -547,5 +547,7 @@ public class NewMain {
     System.out.println(myInner.y);
   }
 }
+
+
   }
 }  
