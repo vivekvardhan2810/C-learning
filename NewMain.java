@@ -71,7 +71,7 @@ class NewMain {
         System.out.println("tuesday");
         break;
       case 3:
-        System.out.println("Wedneday");
+        System.out.println("Wednesday");
         break;
       case 4:
         System.out.println("Thursday");
